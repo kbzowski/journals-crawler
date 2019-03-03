@@ -1,0 +1,10 @@
+{
+  "name": "science-direct-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "as-table": "^1.0.36",
+    "puppeteer": "^1.12.2"
+  }
+}
