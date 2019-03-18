@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "as-table": "^1.0.36",
-    "puppeteer": "^1.12.2"
+    "csv-writer": "^1.2.0",
+    "puppeteer": "1.13.0",
+    "sqlite3": "^4.0.6"
   }
 }
